@@ -15,7 +15,7 @@ body::before {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: url("./assets/bg.JPG") no-repeat center;
+  background: url("./assets/bg.jpg") no-repeat center;
   background-size: cover;
   -webkit-animation: backgroundZoomAnimate 30s forwards;
           animation: backgroundZoomAnimate 30s forwards;
