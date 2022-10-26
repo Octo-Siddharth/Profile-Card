@@ -19,7 +19,7 @@ body {
     inset: 0;
     z-index: -1;
     pointer-events: none;
-    background: url("./assets/bg.jpg") no-repeat center;
+    background: url("../assets/bg.jpg") no-repeat center;
     background-size: cover;
     animation: backgroundZoomAnimate 30s forwards;
   }
